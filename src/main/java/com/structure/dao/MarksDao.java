@@ -4,5 +4,5 @@ import com.structure.model.Marks;
 
 public interface MarksDao {
 
-	public void addMarks(Marks marks);
+	public String addMarks(Marks marks);
 }
