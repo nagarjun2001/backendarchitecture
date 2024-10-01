@@ -11,4 +11,7 @@ public class MessageConstants {
 	
 	public static final String ADD_STUDENT_SUCCESS = "Add Student Success";
 	public static final String ADD_STUDENT_FAILURE = "Add Student Failure";
+	
+	public static final String ADD_MARKS_SUCCESS = "Add Marks Success";
+	public static final String ADD_MARKS_FAILURE = "Add Marks Failure";
 }
